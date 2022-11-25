@@ -2,7 +2,7 @@
 
 - 系统名称：汽车销售系统（ssmbuild）
 - 开发工具：idea
-- 开发语言：SpringBoot+JavaEx+Java15
+- 开发语言：SpringMvc+Js+JQ+Css3+Java15
 - 数据库：MySql8
 
 #### 02 访问系统
